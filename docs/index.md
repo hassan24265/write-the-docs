@@ -1,7 +1,7 @@
-___
-layout:default
-title:Home
-___
+---
+layout: default
+title: Home
+---
 
 
 Hello, World!
